@@ -1,0 +1,11 @@
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\bin\Debug\Cajero Automático.exe.config
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\bin\Debug\Cajero Automático.exe
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\bin\Debug\Cajero Automático.pdb
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\obj\Debug\Cajero Automático.csprojResolveAssemblyReference.cache
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\obj\Debug\Cajero_Automático.Properties.Resources.resources
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\obj\Debug\Cajero Automático.csproj.GenerateResource.Cache
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\obj\Debug\Cajero Automático.csproj.CoreCompileInputs.cache
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\obj\Debug\Cajero Automático.exe
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\obj\Debug\Cajero Automático.pdb
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\obj\Debug\Cajero_Automático.frmCA.resources
+C:\Users\Angge\source\repos\Cajero Automático\Cajero Automático\obj\Debug\Cajero_Automático.frmCliente.resources

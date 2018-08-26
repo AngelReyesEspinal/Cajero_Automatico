@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cajero Automático", "Cajero Automático\Cajero Automático.csproj", "{B42290B5-979E-4BBA-A0AC-81FC71897EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42290B5-979E-4BBA-A0AC-81FC71897EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42290B5-979E-4BBA-A0AC-81FC71897EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42290B5-979E-4BBA-A0AC-81FC71897EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42290B5-979E-4BBA-A0AC-81FC71897EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E01B073-3CD5-4D13-8E18-834790E799CE}
+	EndGlobalSection
+EndGlobal
